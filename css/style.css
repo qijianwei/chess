@@ -1,0 +1,17 @@
+#myCanvas{
+
+	display: block;
+	margin: 30px auto;
+	box-shadow: -3px -3px 3px #EFEFEF,5px 5px 5px #B9B9B9;
+}
+.restart{
+    text-align: center;
+}
+.restart>span{
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #45c01a;
+    border-radius: 5px;
+    cursor: pointer;
+}
